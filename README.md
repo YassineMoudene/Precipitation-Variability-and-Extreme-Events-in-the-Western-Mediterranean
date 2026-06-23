@@ -136,7 +136,7 @@ __pycache__/
 - 43 years is a short record for separating a forced drying trend from comparable-magnitude decadal internal variability.
 - CDD computed on the regional-mean series measures domain-average dry spells, not station-scale drought duration, not directly comparable to standard CDD usage.
 - The CMIP6 analysis uses monthly (Amon) resolution, not daily, making its Rx1day values ~4× smaller than the observational ones and limiting direct comparability.
-- Single-model (IPSL-CM6A-LR) — a multi-model ensemble would be needed to assess whether the PR crossover from below 1 to above 1 is robust across models.
+- Single-model (IPSL-CM6A-LR), a multi-model ensemble would be needed to assess whether the PR crossover from below 1 to above 1 is robust across models.
 
 ## References
 
